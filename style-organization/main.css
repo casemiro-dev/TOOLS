@@ -1,5 +1,6 @@
 @import url("base/_base.css");
 @import url("base/_typography.css");
+
 @import url("layout/_layout.css");
 
 @import url("components/_buttons.css");
@@ -11,5 +12,3 @@
 @import url("utilities/_separators.css");
 
 @import url("themes/_light-theme.css");
-
-@import url("../../modules/modal-verificacao-sup/style.css");
