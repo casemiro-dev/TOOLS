@@ -82,11 +82,6 @@ window.addToTextArea = addToTextArea;
 
 document.addEventListener("DOMContentLoaded", () => {
 
-
-// 📘 Modal M. Pessoais
-document.getElementById("btn-mpdesk")?.addEventListener("click", abrirModalMPDesk);
-document.querySelector("#modal-mpdesk .modal-close")?.addEventListener("click", fecharModalMPDesk);
-
   configurarCampoTelefone(); 
 
   // Botões de fatura
