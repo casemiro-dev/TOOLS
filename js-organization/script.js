@@ -9,6 +9,7 @@ import { formatarTelefone } from './utils/helpers.js';
 import { abrirModalMulta, fecharModalMulta } from './modules/modal-multa.js';
 // ADIÇÃO 1 de 4: Importa as funções do novo módulo de ponto adicional.
 import { abrirModalPontoAdicional, fecharModalPontoAdicional } from './modules/modal-ponto.js';
+import { abrirModalMPDesk, fecharModalMPDesk } from './modais/modal-mpdesk.js';
 
 
 // FUNÇÃO PARA AS TAGS HTML FUNCIONAREM
